@@ -1,0 +1,50 @@
+h2 
+{
+    color:darkgoldenrod;
+    font-size:27px;
+    font-family:monospace;
+}
+h1{
+    
+text-align: center;
+}
+
+
+
+p1 {
+
+    color:black;
+    font-size:16px;
+    font-family:times new roman;
+}
+
+p2 {
+
+    background-color:;
+    font-size:40px;
+    font-family:inherit;
+    text-decoration:overline;
+    text-decoration-style:dotted;
+    }
+
+p {
+    
+}
+
+body {
+    color:black;
+ background-image:linear-gradient(silver,goldenrod);
+    font-family: serif;
+    font-size: 19;
+    
+}
+.main-text{
+    font text-align: justify;
+    background-blend-mode: screen;
+    color: dimgrey;
+}
+#copyright{
+    text-align: right;
+    color: firebrick;
+    font-size: 20px;
+}
