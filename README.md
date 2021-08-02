@@ -1,0 +1,2 @@
+# qptech
+A static website
